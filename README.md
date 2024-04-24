@@ -55,4 +55,7 @@ Components | Recommended
 
 ### **2.** Regenerate the SMBIOS config to fix Apple Service
 
+You **MUST** regenerate the SMBIOS config to make Apple Services working. We recommend MacPro 7,1 or iMac 20,1.
+
+
 <img width="974" alt="Regenerate" src="https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/ea8c1bfd-01bc-4b11-bdf3-5ba6bc9f0a3e">
