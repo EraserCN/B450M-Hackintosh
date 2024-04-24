@@ -6,6 +6,38 @@ AMD B450 Hackintosh  EFI Files based on Opencore. Tested for macOS Monterey 12.1
 ![info1](https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/df69f286-eea9-4e2a-8780-813c5a1db347)
 
 
+# My Hardware
+Components | Recommended
+------------ | -------------
+**Motherboard** | MSI B450M-A PRO MAX
+**CPU** | Six Core AMD Ryzen 5 5500
+**WiFi** | RTL8811CU USB WiFi Card
+**Ethernet** | RTL8111
+**Graphics Card** | AMD Radeon RX6600 8GB
+**Graphics Card** | AMD Radeon RX580 8GB
+**RAM** | 1x 32GB  DDR4 3200 MHz
+**macOS** | 11.0-14.4.1(With RX580) 12.1-14.4.1(With RX6600)
+**OpenCore** | v0.9.9
+# What's Working?
+- All USB Ports
+- Ethernet
+- WiFi
+- Hiberation
+- Dedicated Graphics Card
+- HDMI/DP Output
+- iMessage, FaceTime, Apple ID, iCloud, etc.
+- Metal accelaration
+# What's Not Working?
+- Display device location in FindMy. (Requires a Broadcom WiFi Card)
+- AirDrop, SideCar, Continuity. (Requires a Broadcom WiFi Card)
+# What's Untested?
+- Sound output via Board
+- Sound output via HDMI/DP
+(I only use this machine as a server so I've forgotten to test that.)
+
+
+
+
 
 # Important Notice, Read before You Download the EFI Files⚠️⚠️⚠️
 
