@@ -14,3 +14,5 @@ AMD B450 Hackintosh  EFI Files based on Opencore. Tested for macOS Monterey 12.1
 |   16 Core | `uBAAAAAA` `uhAAAAAA` `uhAAAACQ` `uhAAAAA=`|
 
 
+### **2.** Regenerate the SMBIOS config to fix Apple Service
+
