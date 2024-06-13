@@ -154,9 +154,27 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>NootRX.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/NootRX</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1267,11 +1285,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K853301CDFHDD1F</string>
+			<string>F5K942500J9FHDDA8</string>
 			<key>ProcessorType</key>
-			<integer>1537</integer>
+			<integer>3842</integer>
 			<key>ROM</key>
-			<data>AACsrQ0OAA4AANAAAAAABQ==</data>
+			<data>+gq7e+5f</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -1279,9 +1297,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KY15YUP7QM</string>
+			<string>F5KZK1YWP7QM</string>
 			<key>SystemUUID</key>
-			<string>827A3033-E7A0-4CD5-B29D-E62FA532F624</string>
+			<string>AE756585-5178-467F-B493-9DD5387BEE5F</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1292,13 +1310,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f////wgAAAA=</data>
 			<key>MLB</key>
-			<string>F5K853301CDFHDD1F</string>
+			<string>F5K942500J9FHDDA8</string>
 			<key>ROM</key>
-			<data>AACsrQ0OAA4AANAAAAAABQ==</data>
+			<data>+gq7e+5f</data>
 			<key>SystemSerialNumber</key>
-			<string>F5KY15YUP7QM</string>
+			<string>F5KZK1YWP7QM</string>
 			<key>SystemUUID</key>
-			<string>827A3033-E7A0-4CD5-B29D-E62FA532F624</string>
+			<string>AE756585-5178-467F-B493-9DD5387BEE5F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
