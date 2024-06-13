@@ -1,9 +1,9 @@
 # B450M-Hackintosh
 AMD B450 Hackintosh  EFI Files based on Opencore. Tested for macOS Monterey 12.1 &amp; Ventura 13&amp;Sonoma 14 
 
-[中文版](https://github.com/EraserCN/B450M-Hackintosh/blob/master/中文说明.md)
+**[中文版](https://github.com/EraserCN/B450M-Hackintosh/blob/master/中文说明.md)**
 
-If you're using AMD Navi21/22/23 dGPU such as RX67xx, plase move to [this branch](https://github.com/EraserCN/B450M-Hackintosh/tree/Navi21/22/23)
+**If you're using AMD Navi21/22/23 dGPU such as RX67xx, plase move to [this branch](https://github.com/EraserCN/B450M-Hackintosh/tree/Navi21/22/23)**
 
 ![info2](https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/9e02f739-d2f5-425d-aa7f-1317e2371daa)
 
