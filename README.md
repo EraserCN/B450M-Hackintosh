@@ -16,11 +16,10 @@ Components | Recommended
 **CPU** | Six Core AMD Ryzen 5 5500
 **WiFi** | RTL8811CU USB WiFi Card
 **Ethernet** | RTL8111
-**Current Graphics Card** | AMD Radeon RX6600 8GB
-**Former Graphics Card** | AMD Radeon RX580 8GB
+**Graphics Card** | AMD Radeon RX6750GRE 12GB
 **RAM** | 1x 32GB  DDR4 3200 MHz
 **RAM** | 1x 8GB  DDR4 3200 MHz
-**macOS** | 11.0-14.4.1(With RX580) 12.1-14.4.1(With RX6600)
+**macOS** | 12.1-14.5
 **OpenCore** | v0.9.9
 # What's Working?
 - All USB Ports
