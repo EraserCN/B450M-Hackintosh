@@ -1,9 +1,10 @@
 # B450M-Hackintosh
 AMD B450 Hackintosh  EFI Files based on Opencore. Tested for macOS Monterey 12.1 &amp; Ventura 13&amp;Sonoma 14 
 
-![info2](https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/9e02f739-d2f5-425d-aa7f-1317e2371daa)
+  
+![info2](assets/info2.png)
+![info1](assets/info1.png)
 
-![info1](https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/df69f286-eea9-4e2a-8780-813c5a1db347)
 
 ![IMAGE 2024-04-24 14:57:47](https://github.com/EraserCN/B450M-Hackintosh/assets/79615365/2a1c7a2b-dd13-47c0-92f3-fb6befb98146)
 
