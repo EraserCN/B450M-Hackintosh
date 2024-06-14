@@ -30,12 +30,12 @@ Components | Recommended
 - All USB Ports
 - Ethernet
 - WiFi
-- Hiberation
 - Dedicated Graphics Card
 - HDMI/DP Output
 - iMessage, FaceTime, Apple ID, iCloud, etc.
 - Metal accelaration
 # What's Not Working?
+- Hiberation(Will lead to Kernel panic)
 - Display device location in FindMy. (Requires a Broadcom WiFi Card)
 - AirDrop, SideCar, Continuity. (Requires a Broadcom WiFi Card)
 # What's Untested?
