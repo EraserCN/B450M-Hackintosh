@@ -35,7 +35,7 @@ Components | Recommended
 - iMessage, FaceTime, Apple ID, iCloud, etc.
 - Metal accelaration
 # What's Not Working?
-- Hiberation(Will lead to Kernel panic)
+- Hibernation(Will lead to Kernel panic)
 - Display device location in FindMy. (Requires a Broadcom WiFi Card)
 - AirDrop, SideCar, Continuity. (Requires a Broadcom WiFi Card)
 # What's Untested?
